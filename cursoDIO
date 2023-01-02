@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html> 
+
+<head> 
+<title>Primeira página HTML </title>
+<meta charset= "UTF-8"/>
+</head>
+
+<body> 
+<h1 id="inicio">A onda dos Doramas</h1>
+<hr/>
+<img src="https://www.otempo.com.br/image/contentid/policy:1.2693559:1656942626/doramas-PNG.PNG?f=3x2&w=1224" width="250"/>
+<ul><li><a href="#oquesao"> O que são Doramas e como surgiu?</li></a>
+<li><a href="#maispopulares"> Os Doramas mais populares</li></a>
+<li><a href="#onde">Onde assistir?</li></a> </ul>
+
+<h2 id="oquesao"> O que são Doramas e como surgiu?</h2>
+<small><a href="#inicio">(Voltar)</a></small>
+<p>Dorama é o nome dado às séries de TV produzidas em países asiáticos, como <b>Japão, China, Coreia do Sul, Tailândia e Taiwan</b>. Originalmente, no entanto, o nome dorama era usado para se referir apenas às séries de TV japonesas. A pessoa que gosta de dorama é chamada de dorameira ou dorameiro.
+
+O nome dorama tem origem na palavra <strong>“DRAMA”</strong>. Portanto, doramas nada mais são que produções dramáticas desenvolvidas em países orientais. Como todas as séries, eles são formados por uma sequência de episódios e às vezes têm mais de uma temporada.
+
+Embora originalmente o nome dorama seja usado para designar séries japonesas, hoje também se fala em doramas coreanos, chineses, tailandeses etc. Foi criado um nome para cada tipo de dorama de acordo com a sua nacionalidade:</p>
+
+<h5>J-drama: <u>dorama japonês</u>
+<br>K-drama: <u>dorama sul-coreano</u>
+<br>C-drama: <u>dorama chinês</u>
+<br>Thai-drama: <u>dorama tailandês (também chamado de lakorn)</u>
+<br>T-drama: <u>dorama taiwanês</br></u></h5>
+
+<h2 id="maispopulares">Os Doramas mais populares:</h2>
+<small><a href="#inicio">(Voltar)</a></small>
+<h4>Goblin</h4>
+<p><i>Kim Shin (Gong Yoo) é um goblin imortal responsável por proteger as almas dos humanos. Ele está decidido a perder sua imortalidade, mas um goblin só pode pôr fim à sua vida se ele se casar com uma pessoa. É por isso que agora ele investe todos os seus esforços para conquistar a bela Ji Eun-tak (Kim Go-eun).</p>
+</i>
+
+<h4>O que houve com a secretária Kim?</h4>
+<p><i>A série gira em torno do presidente narcisista de uma grande corporação, Lee Young-joon, e sua altamente capacitada secretária, Kim Mi-so. Mal-entendidos surgem quando ela anuncia que vai renunciar de sua posição, depois de trabalhar para Lee Young-joon por nove anos.
+</i></p>
+
+<h4>Round 6</h4>
+<p><i>A série dramática mostra um grupo de pessoas endividadas que são convidadas para participar de um jogo misterioso na esperança de ganhar dinheiro fácil. No entanto, para receber o prêmio bilionário, os jogadores têm de participar de brincadeiras infantis mortais. </p>
+</i>
+
+<h4>Pousando no amor</h4>
+<p><i>Um acidente de parapente leva uma herdeira sul-coreana à Coreia do Norte. Ali, ela acaba conhecendo um oficial do exército, que vai ajudá-la a se esconder. Assista o quanto quiser. O amor não reconhece fronteiras neste romance tempestuoso</p>
+</i>
+
+<h4>True Beauty</h4>
+<p><i>uma comédia romântica sobre a garota do ensino médio Im Ju-gyeong (Moon Ga-young), que alcançou a fama de garota bonita depois de dominar a arte da maquiagem no YouTube. Ela se transforma em uma "deusa" por causa de suas habilidades de maquiagem, mas prefere morrer a revelar seu rosto despido para alguém.</p>
+</i>
+
+<h2 id="onde">Onde asistir?</h2>
+<small><a href="#inicio">(Voltar)</a></small>
+<p>Nos últimos anos, com a popularização, sobretudo, do K-Pop e das séries e filmes sul-coreanos, muitas pessoas passaram a  se interessar pelo gênero, que oferece uma gama gigantesca de possibilidades ao público. Dessa maneira, no Brasil, alguns serviços de streaming passaram a investir na disponibilização desses conteúdos.</p>
+
+<h4>Netflix</h4>
+<p>Um dos serviços de streaming mais populares no mundo, a Netflix também passou a investir em produções asiáticas com grande força nos últimos anos. Uma prova disso é que Round 6 , Profecia do Inferno e Vincenzo, séries sul-coreanas, que se destacaram entre o público em 2021 como algumas das mais assistidas da plataforma.]</p>
+<h4>Rakuten Viki</h4>
+<p>É uma plataforma dedicada exclusivamente aos doramas, com produções vindas de diversos países do continente asiático. A plataforma tem duas modalidades de acesso, uma gratuita e com anúncios e a assinatura de um plano mensal com conteúdos exclusivos e sem anúncios.
+</p>
+<h4>WeTV</h4>
+<p>Apresenta doramas exclusivos no Brasil, estando disponível para computadores, Smart TVs e também dispositivos móveis. Atualmente, executivos da China são os detentores da maior parte das ações do streaming, o que inclui seu serviço de hospedagem. Dessa maneira, os C-Dramas são bastante fortes na plataforma. No entanto, o catálogo não deixa de apresentar conteúdos variados sempre que possível.</p>
+
+<h6>REFERÊNCIAS</h6>
+<br><a href="https://www.opovo.com.br/vidaearte/2022/03/15/dorama-confira-os-10-dramas-coreanos-mais-famosos-do-mundo.html">O povo</a></br>
+<a href="https://www.tecmundo.com.br/minha-serie/232000-7-servicos-voce-assistir-doramas-brasil.htm">Tecmundo</a>
+</body>
+
+</html>
